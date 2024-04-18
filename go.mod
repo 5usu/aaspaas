@@ -1,4 +1,4 @@
-module video-chat-app
+module aaspass
 
 go 1.15
 
